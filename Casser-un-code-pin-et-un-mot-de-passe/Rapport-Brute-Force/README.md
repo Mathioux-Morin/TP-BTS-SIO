@@ -11,7 +11,7 @@ Les pirates ont plusieurs méthodes pour attaquer par Brute Force.
 
 📊 *Photo illustrant le temps que prend une attaque Brute Force en fonction de la complexité du mot de passe :* 
 
-<img width="400" height="500" alt="image" src="https://images.squarespace-cdn.com/content/v1/5ffe234606e5ec7bfc57a7a3/460ce679-5d87-4fa4-8151-39dd0446f4bf/2025+Hive+Systems+Password+Table?format=2500w" />
+<img width="500" height="500" alt="image" src="https://images.squarespace-cdn.com/content/v1/5ffe234606e5ec7bfc57a7a3/460ce679-5d87-4fa4-8151-39dd0446f4bf/2025+Hive+Systems+Password+Table?format=2500w" />
 
 ## ⚠️ **Quelles sont donc les conséquences possibles ?**
 Les conséquences sont nombreuses, le pirate peut :
