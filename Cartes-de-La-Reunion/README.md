@@ -3,7 +3,7 @@
 Bienvenue dans ce TP dédié à la **cartographie web** et à la **programmation HTML/JavaScript**.  
 L’objectif est simple : **afficher une carte interactive** et **placer des marqueurs dynamiquement** à partir d’un fichier JSON.
 
-|[Points de Randonnées](https://mathioux-morin.github.io/Cartes-de-La-Reunion/Site%20circuit%20randonnées) | [Points de Formation Parcoursup](https://mathioux-morin.github.io/Cartes-de-La-Reunion/Site%20formation%20parcours%20sup)|
+|[Points de Randonnées](https://mathioux-morin.github.io/TP-BTS-SIO/Cartes-de-La-Reunion/Site%20circuit%20randonnées) | [Points de Formation Parcoursup](https://mathioux-morin.github.io/TP-BTS-SIO/Cartes-de-La-Reunion/Site%20formation%20parcours%20sup)|
 
 ---
 
