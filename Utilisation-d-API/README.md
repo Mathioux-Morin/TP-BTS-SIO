@@ -3,6 +3,7 @@
 Bienvenue dans ce TP dédié à l' **utilisation d’API** et à la **visualisation dynamique de données utilisateurs**.  
 L’objectif est de générer des **profils aléatoires** avec l’API [RandomUser](https://randomuser.me) et  en bonus d’afficher les **drapeaux des pays** via [FlagCDN](https://flagcdn.com).
 
+# Accès au [site](https://mathioux-morin.github.io/TP-BTS-SIO/API-Utilisation/API%20RandomUser/)
 ---
 
 ## 🎯 Objectifs pédagogiques
@@ -39,7 +40,5 @@ L’objectif est de générer des **profils aléatoires** avec l’API [RandomUs
 ## 🔗 APIs utilisées
 
 ### 🎲 RandomUser API
-
-# Accès au [site](https://mathioux-morin.github.io/API-Utilisation/API%20RandomUser/)
 
 👩‍💻 *Projet réalisé dans le cadre du BTS SIO SLAM — Lycée Fénelon*
