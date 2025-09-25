@@ -5,7 +5,8 @@ import 'joueur.dart';
 
 // Fonction pour lancer les dés
 
-int lancerDes(){
+int lancerDes()
+{
   var des = Random();
   int nombreAleatoire1 = des.nextInt(6) + 1;
   int nombreAleatoire2 = des.nextInt(6) + 1; 
@@ -13,7 +14,9 @@ int lancerDes(){
   return resultat;
 }
 
-void attaque(String attaquant, String receveur, int score, int force, int vie){
+// Fonction pour afficher les infos d'attaque en fonction de celui qui attaque
+void attaque(String attaquant, String receveur, int score, int force, int vie)
+{
   print('$attaquant lance les dés... : $score');
   print('$attaquant titille $receveur de \x1B[31m${score * force} points de dégats\x1B[0m');
   print('$receveur - Santé $vie%');
@@ -98,4 +101,5 @@ void main()
     print('\x1B[31mVous avez été sacrément nul !\x1B[0m');
     return;
   }
+
 }
