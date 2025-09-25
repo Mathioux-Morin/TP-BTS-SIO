@@ -19,5 +19,6 @@ L’objectif est simple : **simuler une attaque par force brute** pour découvri
 - Algorithme de force brute pour tester toutes les combinaisons
 - Affichage du mot de passe trouvé et du temps d’exécution
 
+## 🗒️ [Rapport](https://mathioux-morin.github.io/TP-BTS-SIO/Casser-un-code-pin-et-un-mot-de-passe/Rapport_BruteForce.md)
 
 👩‍💻 *Projet réalisé dans le cadre du BTS SIO SLAM — Lycée Fénelon*
