@@ -2,6 +2,8 @@
 
 Bienvenue dans ce TP dédié à la **consommation d’API** et à la **programmation HTML/JavaScript**. L’objectif est simple : **interroger la JokeAPI**, récupérer des blagues en français, puis **les afficher dynamiquement** dans un tableau avec options de suppression et de vidage.
 
+# Accès au [site](https://mathioux-morin.github.io/TP-BTS-SIO/Utilisation-d-API/API-v2Jokes/)
+
 ---
 
 ## 🎯 Objectifs pédagogiques
@@ -36,4 +38,5 @@ Bienvenue dans ce TP dédié à la **consommation d’API** et à la **programma
 6. **Gestion d’erreurs UX** : affichage d’une alerte si aucune blague n’est trouvée
 
 👩‍💻 *Projet réalisé dans le cadre du BTS SIO SLAM — Lycée Fénelon*
+
 
