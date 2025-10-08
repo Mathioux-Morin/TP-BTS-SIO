@@ -25,3 +25,4 @@ La récupération de paramètres fait qu'à chaque changement du param name dans
 En ajoutant un paramètre age dans l'url (name=btssioslam&age=5) on peut maintenant l'afficher : 
 <img width="271" height="35" alt="image" src="https://github.com/user-attachments/assets/61a9b3ae-f905-4da9-9143-32de8c6ccdf5" />
 
+Tout fonctionne, le tp est terminé.
